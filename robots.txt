@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/garcia-and-sons-roofing-company-westfield/sitemap.xml
+Sitemap: https://local-business-guides.github.io/garcia-and-sons-roofing-company-westfield/news-sitemap.xml
